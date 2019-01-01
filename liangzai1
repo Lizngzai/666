@@ -1,0 +1,21 @@
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>没用</title>
+  <style>
+    #woshizhendeqiang{
+        background-color: rgb(172, 250, 3);
+        clear: both;
+        padding-left:200px;
+    }
+    #wotaiqiangle{
+        
+    }
+  </style>
+ </head>
+ <body>
+  <p id="woshizhendeqiang">
+   加入我们 申请入学 支持我们
+  </p>
+ </body>
+</html>
